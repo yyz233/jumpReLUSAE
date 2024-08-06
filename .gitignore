@@ -1,0 +1,3 @@
+# Ignore wandb folder
+wandb/
+sae/__pycache__
